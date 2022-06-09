@@ -1,0 +1,25 @@
+program a1 ::
+var a, b, f, d: int;
+var c, t, e: bool;
+{
+    read d;
+    a := ~5;
+    e := +4;
+    b := (a+e)-d;
+    f := (a+b)-d+tt;
+    if a>b then
+    {
+        a := f;
+    }
+    else {
+        b := !s;
+        b := ((a&&c)||d);
+        b := tt;
+        b := ~s;
+    }
+    endif;
+    while ((a>d)<(e<f)) do {
+        a := +0;
+    }
+    endwh;
+}

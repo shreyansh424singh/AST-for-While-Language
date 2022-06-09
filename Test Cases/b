@@ -1,0 +1,12 @@
+program good2 ::
+    var A, B, C, D : int;
+    var E : bool;
+{
+    A := A*B+C/D%A;
+    B := A-B-C-D;
+    C := A*(B-C)+~D;
+    D := ~1 + +4 - ~ ~D;
+    E := C + B - ~ ~D;
+    F := (A < B) > (C < D);
+    G := A > B < E > tt;
+}

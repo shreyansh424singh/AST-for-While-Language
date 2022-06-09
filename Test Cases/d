@@ -1,0 +1,29 @@
+program a1 ::
+var z, t: int;
+var a, b, e, d, f, r, j, u, ft: bool;
+{
+    read ft;
+    z := ~5;
+    b := +3;
+    a := +4;
+    if a>b then
+    {
+        a := a+b++1;
+    }
+    else {
+        b := tt;
+    }
+    endif;
+    t := ~5;
+    d := +2;
+    e := +5+d*a;
+    f := +7;
+    while (a>5) do {
+        a := a-1;
+        b := b++1;
+    }
+    endwh;
+    write a;
+    write ft;
+    write (+3+~4)*+6+~2;
+}
